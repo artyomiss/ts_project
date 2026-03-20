@@ -1,0 +1,8 @@
+numpy
+pandas
+catboost
+statsforecast
+tqdm
+tslearn
+scipy
+matplotlib
